@@ -1,1 +1,2 @@
-# cot-4500-as3b
+In question 1, the question gives a matrix and says to use Gaussian elimination and backward substitution solve the following linear system of equations written in augmented matrix format. In question 2 there are three parts and all of them require the use of LU Factorization. Part a requires printing out the matrix determinant. Parts b and c require printing out the L and U matrices respectively. In question 3, it gives a matrix and asks to determine if it is diagonally dominate. In question 4, it gives another matrix and asks to determine if it is a positive definite. 
+
